@@ -1,2 +1,2 @@
-# howto
+# How to 
 Misc. notes
